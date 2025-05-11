@@ -1,24 +1,19 @@
-# Hi there, I'm Mandavi Gupta 👋
-Welcome to my GitHub profile!
 
+<!-- Animated Name -->
+<p align="center">
+  <img src="https://github.com/MandaviGupta/MandaviGupta/blob/main/name.gif" alt="Mandavi Gupta" />
+</p>
 
-![Animated Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY1cjY0cmlhaGs0czJtZDNzZ2k1czZvdHd3ODJqZm55aWR1NmM4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
+<!-- Bio -->
+<p align="center">
+  Welcome to my GitHub profile! I'm passionate about building intelligent systems and exploring data
+</p>
+
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY1cjY0cmlhaGs0czJtZDNzZ2k1czZvdHd3ODJqZm55aWR1NmM4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding Animation" />
+</p>
 
 
 
 📫 **How to reach me:** [mandavigupta14@gmail.com] | [https://www.linkedin.com/in/mandavi-gupta/]
-
-<!--
-**mandavigupta/mandavigupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
