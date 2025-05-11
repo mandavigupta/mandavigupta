@@ -1,4 +1,4 @@
-# Hi there, I'm **Mandavi Gupta** 👋
+# Hi there, I'm Mandavi Gupta 👋
 Welcome to my GitHub profile!
 
 
