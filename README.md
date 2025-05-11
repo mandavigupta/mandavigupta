@@ -1,7 +1,7 @@
-Hi i am Mandavi Gupta
+
 <!-- Animated Name -->
 <p align="center">
-  <img src="https://github.com/MandaviGupta/MandaviGupta/blob/main/name.gif" alt="Mandavi Gupta" />
+ Hi,i am Mandavi Gupta
 </p>
 
 <!-- Bio -->
